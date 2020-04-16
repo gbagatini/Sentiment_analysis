@@ -1,4 +1,5 @@
-# Sentiment_analysis - in progress 
+# Sentiment Analysis
+#####in progress 
 
 The objective of this project is to detect hate speech in tweets. 
 
