@@ -10,7 +10,7 @@ https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
 ## Tools and Packages that I used for this project:
 
 #### Feature Engineering:
-* Natural language processing - SpaCy 
+* Natural language processing - SpaCy and nltk
 * TFIDF
 
 
